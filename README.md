@@ -1,2 +1,2 @@
-# Mini-C-Project
+# Mini-C++-Project
  Library Book Management Using C++
